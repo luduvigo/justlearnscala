@@ -3,8 +3,10 @@
 ## work in progress ...
 
 An organized collection of resources (articles, videos, blog posts, exercises, ...) to learn Scala from to beginner to expert level powered using GitHub pages.
-The site is available here: [http://luduvigo.github.io/justlearnscala/](http://luduvigo.github.io/justlearnscala/)
-The material provided is already available in the web and completely free.
+
+The site is available here: [http://luduvigo.github.io/justlearnscala](http://luduvigo.github.io/justlearnscala)
+
+The material provided is already available in the web and is completely free.
 
 ## Motivation
 
