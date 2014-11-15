@@ -8,10 +8,10 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Scala Academy
+title : justlearnscala
 tagline: Your Scala resource collector
 author :
-  name : Name Lastname
+  name : Paolo Antonio Rossi
   email : paoloantoniorossi@gmail.com
   github : luduvigo
   twitter : luduvigo
