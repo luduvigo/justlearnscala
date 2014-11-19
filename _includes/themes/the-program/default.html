@@ -13,6 +13,15 @@
 	<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.0.6/modernizr.min.js"></script>
 </head>
 <body>
+  
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
 <div id="page" class="hentry">
 	<header class="the-header">
@@ -41,8 +50,11 @@
 				<div class="misc vcard">
                      <a href="https://twitter.com/share" class="twitter-share-button" data-text="Learn Scala from novice to expert starting just now" data-via="luduvigo" data-size="large" data-hashtags="Scala">Tweet</a>
                           <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-					<h4>about</h4>
-                  <p>the collection of useful Scala resources that wants to be a useful entrypoint for all the practicioners</p>
+                  <br/>
+                  <div class="fb-share-button" data-href="http://luduvigo.github.io/justlearnscala/" data-layout="button_count"></div>
+				  <br/>
+                  <h3>About</h3>
+                  <p>A collection of useful Scala resources that wants to be a useful entrypoint for all the practicioners</p>
                   
 					<ul>
 						<li class="contact"><address><span class="author fn n">{{ site.author.name }}</span> - <span class="fn email">{{ site.author.email }}</span></address></li>
