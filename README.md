@@ -2,7 +2,7 @@
 
 ## work in progress ...
 
-An organized collection of resources (articles, videos, blog posts, exercises, ...) to learn Scala from to beginner to expert level powered using GitHub pages.
+An organized collection of resources (articles, videos, blog posts, exercises, ...) to learn Scala from to beginner to expert level powered using Jekyll and GitHub pages.
 
 The site is available here: [http://luduvigo.github.io/justlearnscala](http://luduvigo.github.io/justlearnscala)
 
