@@ -5,7 +5,7 @@ tagline: Start learning now!
 ---
 {% include JB/setup %}
 
-[Resources](../resources.html)
+[Resources](resources.html)
 
 This is a list of useful internet material to start studying. Going to be updated and better organized.  
 
