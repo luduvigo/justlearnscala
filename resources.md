@@ -43,7 +43,7 @@ tagline: Start learning now!
 ####Files and Regular Expressions (A1)
 
 ####Traits (L1)
-	http://www.scala-lang.org/old/node/126
+    http://www.scala-lang.org/old/node/126
     http://en.wikibooks.org/wiki/Scala/Traits
     http://joelabrahamsson.com/learning-scala-part-seven-traits/
     http://www.tutorialspoint.com/scala/scala_traits.htm

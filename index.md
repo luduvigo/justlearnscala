@@ -5,17 +5,19 @@ tagline: Start learning now!
 ---
 {% include JB/setup %}
 
-[Resources](resources.html)
-
 This is a list of useful internet material to start studying. Going to be updated and better organized.  
 
-The Twitter School of Scala [https://twitter.github.io/scala_school/](https://twitter.github.io/scala_school/ "Twitter Scala School")
+### Language introduction resources
+[Learn X in Y minutes](http://learnxinyminutes.com/docs/scala/) Scala fast introduction.  
+[Atomic Scala](http://s3-eu-west-1.amazonaws.com/presentations2012/21_presentation.pdf) Bruce Heckel introduction presentation.   
+ 
+### Scala online learning courses
 
-Remember why you want to learn it [http://typesafe.com/blog/why-learn-scala ](http://typesafe.com/blog/why-learn-scala  "why-learn-scala")  
+The Twitter [School of Scala](https://twitter.github.io/scala_school/ "Twitter Scala School"). The well known learning resource from a top player company in the Scala development industry.  
+A must for who wants to start studying Scala and Functional Programming. The coursera course [Coursera Progfun](https://www.coursera.org/course/progfun).   
+The follow up Coursersa course about reactive programming. Advanced coursera course [Coursera reactive](https://www.coursera.org/course/reactive).  
 
-A must for who wants to start studying Scala and Functional Programming. The coursera course [https://www.coursera.org/course/progfun](https://www.coursera.org/course/progfun) 
-
-The follow up Coursersa course about reactive programming. Advanced coursera course [https://www.coursera.org/course/reactive](https://www.coursera.org/course/reactive)  
+Remember why you want to learn it [http://typesafe.com/blog/why-learn-scala ](http://typesafe.com/blog/why-learn-scala  "why-learn-scala")   
 
 A useful site to get new resources [http://danielwestheide.com/](http://danielwestheide.com/)  
 
@@ -43,15 +45,12 @@ Scala: An Introduction
 Odersky Explains Shared-Memory Concurrency
 http://www.artima.com/weblogs/viewpost.jsp?thread=332186
 
-http://s3-eu-west-1.amazonaws.com/presentations2012/21_presentation.pdf
-
 Intro to functional programming http://rafaelcfreire.github.io/2014/10/30/Where-to-start-with-functional-programming/
 http://www.smashcompany.com/technology/object-oriented-programming-is-an-expensive-disaster-which-must-end
 http://scalacamp.pl/intro/#/history
 http://www.slideshare.net/tpunder/a-brief-intro-to-scala
 http://www.simplyscala.com/
 http://scala-labs.github.io/learning-scala.html
-http://learnxinyminutes.com/docs/scala/
 http://www.tutorialspoint.com/scala/
 http://www.atomicscala.com/
 http://matt.might.net/articles/learning-scala-in-small-bites/
@@ -60,4 +59,3 @@ http://www.grahamlea.com/2012/11/learning-scala-grahams-guide/
 http://joelabrahamsson.com/learning-scala/
 http://blog.pluralsight.com/how-to-use-scala
 http://jxyzabc.blogspot.fr/2012/11/should-you-learn-scala.html
-http://www.kogics.net/kojo
