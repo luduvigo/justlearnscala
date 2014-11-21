@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scala Learning resources
+title: learn the language features
 tagline: Start learning now!
 ---
 {% include JB/setup %}
