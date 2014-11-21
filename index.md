@@ -5,7 +5,11 @@ tagline: Start learning now!
 ---
 {% include JB/setup %}
 
-This is a list of useful internet material to start studying. Going to be updated and better organized.  
+This is a list of useful internet free material to start studying and practicing with the Scala language and more in general with Functional Programming.  
+
+###What is Scala?
+
+[Wikipedia](http://en.wikipedia.org/wiki/Scala_%28programming_language%29)
 
 ###Should I learn Scala?
 
