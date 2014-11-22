@@ -11,3 +11,4 @@ This page contains a collection of resources that allow you to evaluate and impr
 * The [Kojo](http://www.kogics.net/kojo) learning environment.  
 * [Labs and Playgrounds](http://scala-labs.github.io/learning-scala.html) to learn Scala by practicing on projects.
 * Practice typing code directly using [Simply Scala](http://www.simplyscala.com/).  
+* [Scala Puzzlers](http://scalapuzzlers.com/#pzzlr-001)

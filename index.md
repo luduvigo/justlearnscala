@@ -27,6 +27,7 @@ An article regarding if you should or not [start to learn Scala](http://jxyzabc.
 [Object Oriented programming issues](http://www.smashcompany.com/technology/object-oriented-programming-is-an-expensive-disaster-which-must-end).
 
 ### Language introduction resources
+* An interesting description of the [Scala programmers levels](http://www.scala-lang.org/old/node/8610)
 * [Intro to functional programming](http://rafaelcfreire.github.io/2014/10/30/Where-to-start-with-functional-programming/)
 * [Learn X in Y minutes](http://learnxinyminutes.com/docs/scala/) Scala fast introduction.  
 * [Atomic Scala](http://s3-eu-west-1.amazonaws.com/presentations2012/21_presentation.pdf) Bruce Heckel introduction presentation.   
@@ -46,7 +47,8 @@ An article regarding if you should or not [start to learn Scala](http://jxyzabc.
 * Read [Scala tutorials](http://scalatutorials.com/tour/) to have some examples and practical help to use for the Scala language features.  
 * Interesting [scala-lang tutorials ](http://docs.scala-lang.org/tutorials/) from the Scala lang official website. 
 * The [TutorialPoint Scala page](http://www.tutorialspoint.com/scala/). 
-* Learning Scala series of [blog posts](http://joelabrahamsson.com/learning-scala/) by Joel Abrahamsson.  
+* Learning Scala series of [blog posts](http://joelabrahamsson.com/learning-scala/) by Joel Abrahamsson. 
+* [Another tour of Scala](http://naildrivin5.com/scalatour/) by [David Copeland](https://github.com/davetron5000)
 
 ###The Neophite guide to Scala
 A useful site to get the interesting Neophite [Guide to Scala](http://danielwestheide.com/), a 16 article series of blog posts that is guiding you inside of Scala. 
