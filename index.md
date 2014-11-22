@@ -9,20 +9,20 @@ This is a list of useful internet free material to start studying and practicing
 
 ###What is Scala?
 
-[Wikipedia](http://en.wikipedia.org/wiki/Scala_%28programming_language%29)
+<a href="http://en.wikipedia.org/wiki/Scala_%28programming_language%29" target="_blank">Wikipedia</a>
 
 ###Should I learn Scala?
 
 > It depends on what you want to accomplish, 
 > but the answer is probably yes.
 
-An article regarding if you should or not [start to learn Scala](http://jxyzabc.blogspot.fr/2012/11/should-you-learn-scala.html). 
+An article regarding if you should or not [start to learn Scala](http://jxyzabc.blogspot.fr/2012/11/should-you-learn-scala.html target="_blank"). 
 
 >Whether you're tired of writing boilerplate code, 
 > struggling to maintain your code or just eager to 
 > learn something new, you should get to know Scala.
 
-[Why use Scala](http://blog.pluralsight.com/how-to-use-scala) blogpost by Justin Pihony. 
+[Why use Scala](http://blog.pluralsight.com/how-to-use-scala target="_blank") blogpost by Justin Pihony. 
 
 [Object Oriented programming issues](http://www.smashcompany.com/technology/object-oriented-programming-is-an-expensive-disaster-which-must-end).
 
@@ -72,17 +72,6 @@ A useful site to get the interesting Neophite [Guide to Scala](http://danielwest
 The official [scala-lang documentation/](http://www.scala-lang.org/documentation/) page.  
 
 Check the Quora resources at [http://scala-resources.quora.com/](http://scala-resources.quora.com/) 
-
-Read and practice with [http://daily-scala.blogspot.fr/](http://daily-scala.blogspot.fr/)  
-
-Read [http://www.codecommit.com/blog/](http://www.codecommit.com/blog/)  
-
-Scala: the static language that feels dynamic: http://www.artima.com/weblogs/viewpost.jsp?thread=328540
-Scala, Patterns and The Perl Effect http://www.artima.com/weblogs/viewpost.jsp?thread=338796 
-Is Scala Only for Computer Scientists?
-http://www.artima.com/weblogs/viewpost.jsp?thread=339521 
-Odersky Explains Shared-Memory Concurrency
-http://www.artima.com/weblogs/viewpost.jsp?thread=332186
 
 http://scalacamp.pl/intro/#/history
 http://www.atomicscala.com/
