@@ -12,7 +12,9 @@ Every topic has a difficulty indicator that varies from A1 to L3. To find the me
 As a guideline for the content of this page is followed the index of the book Scala for the Impatient. 
 
 ####The Basics (A1)
-* [Introduction to the Scala Interpreter](http://alblue.bandlem.com/2007/10/scala-introduction-to-scala-interpreter.html)  
+* [Introduction to the Scala Interpreter](http://alblue.bandlem.com/2007/10/scala-introduction-to-scala-interpreter.html) 
+* [Deeper look at the apply method in Scala](http://jackcoughonsoftware.blogspot.fr/2009/01/deeper-look-at-apply-method-in-scala.html)  
+* [Scaladoc explaination in Scala documentation](http://docs.scala-lang.org/style/scaladoc.html)
 
 ####Control Structures and Functions (A1)
 
