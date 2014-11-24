@@ -5,7 +5,14 @@ tagline: Start learning now!
 ---
 {% include JB/setup %}
 
+In this page there is a collection of resources available for free on internet regarding some of the main Scala topics.  
+Since we don't have control of the content of these articles to allow having more trustable information the same information can be overlapping in the various resources.  
+
+Every topic has a difficulty indicator that varies from A1 to L3. To find the meaning of it please refer to the Martin Odersky related interesting description of the [Scala programmers levels](http://www.scala-lang.org/old/node/8610).
+As a guideline for the content of this page is followed the index of the book Scala for the Impatient. 
+
 ####The Basics (A1)
+* [Introduction to the Scala Interpreter](http://alblue.bandlem.com/2007/10/scala-introduction-to-scala-interpreter.html)  
 
 ####Control Structures and Functions (A1)
 
