@@ -27,7 +27,6 @@ An article regarding if you should or not [start to learn Scala](http://jxyzabc.
 [Object Oriented programming issues](http://www.smashcompany.com/technology/object-oriented-programming-is-an-expensive-disaster-which-must-end).
 
 ### Language introduction resources
-* An interesting description of the [Scala programmers levels](http://www.scala-lang.org/old/node/8610)
 * [Intro to functional programming](http://rafaelcfreire.github.io/2014/10/30/Where-to-start-with-functional-programming/)
 * [Learn X in Y minutes](http://learnxinyminutes.com/docs/scala/) Scala fast introduction.  
 * [Atomic Scala](http://s3-eu-west-1.amazonaws.com/presentations2012/21_presentation.pdf) Bruce Heckel introduction presentation.   
