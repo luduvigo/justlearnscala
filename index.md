@@ -28,6 +28,8 @@ An article regarding if you should or not [start to learn Scala](http://jxyzabc.
 
 ### Language introduction resources
 * [Intro to functional programming](http://rafaelcfreire.github.io/2014/10/30/Where-to-start-with-functional-programming/)
+* [A list of Scala resources](http://gatkforums.broadinstitute.org/discussion/1897/scala-resources) from the gatk forum.
+* [Resources for Getting Started With Functional Programming and Scala](http://nerd.kelseyinnis.com/blog/2013/01/07/resources-for-getting-started-with-functional-programming-and-scala/) by Kelsey Innis.
 * [Learn X in Y minutes](http://learnxinyminutes.com/docs/scala/) Scala fast introduction.  
 * [Atomic Scala](http://s3-eu-west-1.amazonaws.com/presentations2012/21_presentation.pdf) Bruce Heckel introduction presentation.   
 * A [brief introduction to Scala](http://www.slideshare.net/tpunder/a-brief-intro-to-scala) by Tim Underwood.  
