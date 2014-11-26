@@ -35,6 +35,9 @@ An article regarding if you should or not [start to learn Scala](http://jxyzabc.
 * A [brief introduction to Scala](http://www.slideshare.net/tpunder/a-brief-intro-to-scala) by Tim Underwood.  
 * Typesafe article about why starting to learn and use Scala now [Why learn Scala](http://typesafe.com/blog/why-learn-scala "why-learn-scala").  
 * [Getting started with Scala](https://www.bionicspirit.com/blog/2013/05/13/getting-started-with-scala.html).  
+* Check the Quora resources at [Quora Scala resources](http://scala-resources.quora.com/).
+* 
+* The site of the Bruce Heckel book [Atomic Scala](http://www.atomicscala.com/).
  
 ### Scala online learning courses
 
@@ -72,9 +75,8 @@ A useful site to get the interesting Neophite [Guide to Scala](http://danielwest
 * [Part 16: Where to go from here](http://danielwestheide.com/blog/2013/04/03/the-neophytes-guide-to-scala-part-16-where-to-go-from-here.html)  
 
 ###Documentation
-The official [scala-lang documentation/](http://www.scala-lang.org/documentation/) page.  
+* The official [scala-lang documentation/](http://www.scala-lang.org/documentation/) page.  
 
-Check the Quora resources at [http://scala-resources.quora.com/](http://scala-resources.quora.com/) 
-
+<!--
 http://scalacamp.pl/intro/#/history
-http://www.atomicscala.com/
+-->
