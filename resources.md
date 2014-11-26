@@ -80,6 +80,12 @@ As a guideline for the content of this page is followed the index of the book Sc
 ####Parsing and Domain-Specific Languages (A3)
 
 ####Actors (A3)
+* [Actor model](http://en.wikipedia.org/wiki/Actor_model) Wikipedia page.
+* [A short Actor tutorial](http://www.scala-lang.org/old/node/242) from Scala Lang website.
+* [Scala Actor API](http://docs.scala-lang.org/overviews/core/actors.html) from docs.scala-lang.
+* [The Scala Actors Migration Guide](http://docs.scala-lang.org/overviews/core/actors-migration-guide.html) to migrate from Scala Actors to Akka Actors.
+* [Getting Started with Actor Based Programming Using Scala and Akka](http://www.reactive.io/tips/2014/03/28/getting-started-with-actor-based-programming-using-scala-and-akka/) article from Robert Sosinski.
+* [Akka Actor API](http://doc.akka.io/docs/akka/snapshot/scala/actors.html).
 
 ####Implicits (L3)
 
