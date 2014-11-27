@@ -11,6 +11,9 @@ Some interesting Scala related blogs:
 * [Daily Scala](http://daily-scala.blogspot.fr/) blog by Jesse Eichar.
 * [Reactive IO](http://www.reactive.io/tips/) official blog.
 * [Joel Abrahamsson](http://joelabrahamsson.com/programming/scala/) Scala articles.
+* [Alvin Alexander](http://alvinalexander.com/scala) Scala blogging.
+* [Bcomposes](https://bcomposes.wordpress.com/) Jason Baldrige's blog.
+* [Hedley Proctor](http://hedleyproctor.com/category/scala/) Scala blogging.
 
 
 ###Interesting blog posts

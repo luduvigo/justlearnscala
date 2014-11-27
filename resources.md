@@ -77,6 +77,11 @@ As a guideline for the content of this page is followed the index of the book Sc
 ####Annotations (A2)
 
 ####XML Processing (A2)
+* [How to manipulate XML data with Scala](https://www.udemy.com/blog/scala-xml/) from Udemy.
+* [Practical Scala – processing XML](http://hedleyproctor.com/2013/01/practical-scala-processing-xml/) from Hedley Proctor.
+* [Basic Scala XML processing](https://bcomposes.wordpress.com/2012/05/04/basic-xml-processing-with-scala/) from Jason Baldrige's blog.
+* [Scala deeper XML parsing](http://alvinalexander.com/scala/xml-parsing-xpath-extract-xml-tag-attributes) from Alvin Alexander blog.
+
 
 ####Type Parameters (L2)
 
