@@ -1,6 +1,6 @@
 ---
 layout: page
-title: practice
+title: just learn scala - Practice
 tagline: Start learning now!
 ---
 

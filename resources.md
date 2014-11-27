@@ -1,6 +1,6 @@
 ---
 layout: page
-title: learn the language features
+title: just learn scala - Resources
 tagline: Start learning now!
 ---
 {% include JB/setup %}
@@ -42,6 +42,11 @@ As a guideline for the content of this page is followed the index of the book Sc
 [Maps and Tuples 12](http://www.javacodegeeks.com/2011/10/scala-tutorial-maps-sets-groupby.html)  
 
 ####Classes (A1)
+* [Introduction to Scala: creating Scala classes](http://alblue.bandlem.com/2007/10/scala-introduction-to-scala-creating.html) by AlBlue’s Blog.
+* [Scala classes and contructors](http://joelabrahamsson.com/learning-scala-part-four-classes-and-constructors/) from Joel Abrahamsson.
+* [Scala classes tutorial](http://tutorials.jenkov.com/scala/classes.html) from Jakob Jenkov.
+* [Scala classes and objects](http://www.tutorialspoint.com/scala/scala_classes_objects.htm) in Tutorial Point.
+* [A tour of Scala: Classes](http://www.scala-lang.org/old/node/132.html)
 
 ####Objects (A1)
 

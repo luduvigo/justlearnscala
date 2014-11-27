@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scala blogs
+title: just learn scala - Blogs
 tagline: Start learning now!
 ---
 {% include JB/setup %}
@@ -10,6 +10,7 @@ Some interesting Scala related blogs:
 * The [Code Commit](http://www.codecommit.com/blog/) blog by Daniel Spiewak.  
 * [Daily Scala](http://daily-scala.blogspot.fr/) blog by Jesse Eichar.
 * [Reactive IO](http://www.reactive.io/tips/) official blog.
+* [Joel Abrahamsson](http://joelabrahamsson.com/programming/scala/) Scala articles.
 
 
 ###Interesting blog posts

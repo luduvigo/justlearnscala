@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Events in the Scala world
+title: just learn scala - Events
 tagline: Start learning now!
 ---
 

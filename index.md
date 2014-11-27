@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Main
+title: just learn scala - Home
 tagline: Start learning now!
 ---
 {% include JB/setup %}
@@ -16,7 +16,7 @@ This is a list of useful internet free material to start studying and practicing
 > It depends on what you want to accomplish, 
 > but the answer is probably yes.
 
-An article regarding if you should or not [start to learn Scala](http://jxyzabc.blogspot.fr/2012/11/should-you-learn-scala.html target="_blank"). 
+An article regarding if you should or not [start to learn Scala](http://jxyzabc.blogspot.fr/2012/11/should-you-learn-scala.html). 
 
 >Whether you're tired of writing boilerplate code, 
 > struggling to maintain your code or just eager to 
