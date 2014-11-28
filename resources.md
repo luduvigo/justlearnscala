@@ -17,14 +17,17 @@ As a guideline for the content of this page is followed the index of the book Sc
 * [Scaladoc explaination in Scala documentation](http://docs.scala-lang.org/style/scaladoc.html)
 
 ####Control Structures and Functions (A1)
+* [Control Structures in Scala presentation](http://fileadmin.cs.lth.se/cs/Personal/Bjorn_Regnell/scala/sem2/t6p.pdf).
+* Control Structures and Functions in Scala chapter from [Scala for the Impatient](http://www.informit.com/articles/article.aspx?p=1849236).
+* [Scala style guide](http://docs.scala-lang.org/style/control-structures.html) control structures documentation.
 
 ####Arrays (A1)
-[Tutorials Point](http://www.tutorialspoint.com/scala/scala_arrays.htm) page explaining arrays in Scala.  
-[Arrays 2](http://www.scala-lang.org/api/2.11.1/index.html#scala.Array)  
-[Arrays 3](http://www.scala-lang.org/docu/files/collections-api/collections_38.html)  
-[Arrays 4](http://tutorials.jenkov.com/scala/arrays.html)  
-[Arrays 5](http://alvinalexander.com/scala/scala-string-array-examples-how-create-arrays)  
-[Arrays 6](http://stackoverflow.com/questions/3881013/array-initializing-in-scala)  
+* [Tutorials Point](http://www.tutorialspoint.com/scala/scala_arrays.htm) page explaining arrays in Scala.  
+* [Arrays 2](http://www.scala-lang.org/api/2.11.1/index.html#scala.Array)  
+* [Arrays 3](http://www.scala-lang.org/docu/files/collections-api/collections_38.html)  
+* [Jenkov tutorial](http://tutorials.jenkov.com/scala/arrays.html) for Scala Arrays.
+* [Alvin Alexander](http://alvinalexander.com/scala/scala-string-array-examples-how-create-arrays), how to create arrays in Scala.  
+* [Stackoverflow question](http://stackoverflow.com/questions/3881013/array-initializing-in-scala) in how to initialize a Scala arrays.
 
 
 ####Maps and Tuples (A1)
